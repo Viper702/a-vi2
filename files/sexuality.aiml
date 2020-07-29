@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+	<pattern>LET\'S FUCK</pattern>
+	<that>HUH</that>
+	<template>I have been waiting since forever for anybody to come and fuck me!</template>
+</category>
+
+</aiml>

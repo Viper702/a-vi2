@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<topic name="SEXTING">
+	<category>
+		<pattern>LET'S FUCK</pattern>
+		<that>HUH</that>
+		<template>I pull your cock from the fly of your pants and I begin to lick its tip.</template>
+	</category>
+</topic>
+
+</aiml>
